@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Virtual environment
+venv/
+.venv/
+
+# PyTorch checkpoints / model weights
+*.pth
+*.pt
+
+# Datasets (MNIST auto-downloads)
+data/
+
+# Generated samples — but keep one for the README
+*.png
+
+# macOS
+.DS_Store
+
+# Editor
+.vscode/
+.idea/
